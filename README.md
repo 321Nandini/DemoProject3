@@ -1,2 +1,3 @@
 # This is third demo project
-created by: Nandini Pramod Chandegave
+created by: Nandini Pramod Chandegave.
+# This is just a practice project.
